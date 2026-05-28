@@ -1,0 +1,9 @@
+<html>
+<head> 
+page 3
+
+</head>
+<script>
+localStorage.setItem("username", "student");
+</script>
+</html>
