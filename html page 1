@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <h1> university toper </h1>
+       <h2> dhirajbhamare </h2>
+  </head> 
+  <nav> 
+  <a href="#">Home</a>
+    <a href="#">Courses</a>
+        </nav>
+   <section>
+    <article>
+        <h2>Web Technology</h2>
+        <p>HTML5 tutorial content.</p>
+    </article>
+  </section>
+  <footer>
+    copyright 2026 
+  </footer>
+</html>
