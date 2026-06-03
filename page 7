@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>   HTML5 TUTORIAL </title>
+</head>
+<body>
+<p>This is a paragraph.</p>
+<b>Bold Text</b>
+
+<strong>Important Warning</strong>
+
+<i>Italic Text</i>
+
+<em>Emphasised Text</em>
+
+<u>Underlined Text</u>
+
+<p>This is <mark>highlighted</mark> text.</p>
+
+<small>Terms and Conditions Apply</small>
+
+<p>Old Price: <del>₹500</del></p>
+<p>New Price: <ins>₹350</ins></p>
+
+H<sub>2</sub>O
+x<sup>2</sup>
+
+<code>printf("Hello World");</code>
+
+Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy
+
+<pre>
+Name : John
+Age  : 25
+</pre>
+
+<q>Knowledge is power.</q>
+
+<blockquote>
+Education is the most powerful weapon which you can use to change the world.
+</blockquote>
+
+<abbr title="HyperText Markup Language">HTML</abbr>
+
+<address>
+Written by John Doe<br>
+Visit us at Surat, Gujarat
+</address>
+
+<time datetime="2026-05-25">25 May 2026</time>
+
+<bdi>مرحبا</bdi>
+
+<bdo dir="rtl">HTML5</bdo>
+
+<ruby>
+漢 <rt>Kan</rt>
+</ruby>
+
+<s>Out of Stock</s></body>
+</html>
