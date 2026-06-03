@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>HTML5 Tutorial</title>
+    </head>
+    <body>
+        <h1>Welcome to HTML5</h1>
+<h2>Main Heading</h1>
+<h3>Sub Heading</h2>
+<h4>Topic Heading</h3>
+<h5>Section Heading</h4>
+<h6>Minor Heading</h5>
+<h7>Smallest Heading</h6>
+</html>
