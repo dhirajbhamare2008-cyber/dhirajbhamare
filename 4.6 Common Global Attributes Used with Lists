@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> HTML5 COMMON GLOBAL ATTRIBUTE </TITLE>
+<body>
+
+<ul id="subjects" 
+class="mainlist" 
+style="color:blue;"
+title="Subject List">
+    <li>Mathematics</li>
+    <li>Science</li>
+</ul>
+</body>
+</html>
