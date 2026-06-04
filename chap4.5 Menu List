@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> HTML5 MENU LIST </title>
+<body>
+
+<menu>
+    <li>Home</li>
+    <li>About</li>
+</menu>
+</body>
